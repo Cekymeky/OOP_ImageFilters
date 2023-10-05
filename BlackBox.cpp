@@ -1,5 +1,5 @@
 #include "imageprocessing.cpp"
-
+#include "main.cpp"
 
 using namespace std;
 
